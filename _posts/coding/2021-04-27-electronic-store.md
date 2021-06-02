@@ -6,7 +6,7 @@ description: >
   Electronic store problem -  Hackerrank - Kotlin solution - elimination approach
 sitemap: false
 hide_last_modified: false
-categories: [Animal, Insect]
+categories: [Coding, Hackerrank]
 tags: [kotlin, coding]
 no_break_layout: false
 ---
