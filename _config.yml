@@ -11,18 +11,16 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Mahendran                    # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: My journey with Android and stuff   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Exploring android/compose/flutter/springboot
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
